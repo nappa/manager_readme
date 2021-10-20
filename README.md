@@ -1,1 +1,1 @@
-# manager_readme
+[移動しました](https://github.com/nappa/about_me)
